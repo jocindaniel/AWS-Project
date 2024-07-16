@@ -1,5 +1,6 @@
 # AWS-Project
 
+# This helps to deploy the source code into webserver automatically
 version: 0.0
 os: linux
 files:
